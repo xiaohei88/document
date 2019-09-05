@@ -1,0 +1,21 @@
+{
+    "title": "ZDubbo在线文档",
+    "gitbook": "3.2.2",
+    "author": "henry",
+    "plugins": ["copy-code-button", "back-to-top-button", "github", "flexible-alerts", "splitter"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/xiaohei88/document.git"
+        },
+        "flexible-alerts": {
+            "style": "callout",
+            "comment": {
+                "label": "Comment",
+                "icon": "fa fa-comments",
+                "className": "info"
+            }
+        }
+    }
+}
+
+
